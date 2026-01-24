@@ -6,7 +6,7 @@ de estudo e consulta para iniciantes.
 
 ## 📚 Conteúdo abordado
 - Estruturas condicionais (if, else, switch)
-- Estruturas de repetição (for, while, do-while)- Arrays (vetores)
+- Estruturas de repetição (for, while, do-while)
 - Exercícios gerais e práticos para fixação dos conceitos
 
 ## 📂 Organização
